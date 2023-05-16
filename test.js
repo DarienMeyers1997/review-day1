@@ -32,7 +32,7 @@ describe("return a abc123 String", function () {
 
 describe("return sum of two parameters", function () {
   it("should return 10", function () {
-    expect(returnSumOfTen(5, 5)).to.equal(10);
+    expect(returnSumOfTwo(5, 5)).to.equal(10);
   });
 });
 
